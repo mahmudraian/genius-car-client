@@ -1,3 +1,8 @@
+# Figma
+
+https://www.figma.com/file/bsiYNikh8ePEs4pO5gFIKJ/genius_car?type=design&node-id=0-1&mode=design&t=CmVVMrTy9qUTkgJH-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
